@@ -1,0 +1,45 @@
+body{
+    padding-top: 350px;
+    background-image: url(/images/cristian\ newman.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.wh{
+    color: white;
+}
+.dot{
+    font-size: 30px;
+    font-weight: 700; 
+    color: white; 
+}
+.dot1{
+    color: #ff5959;
+    font-size: 30px;
+    font-weight: 700;
+}
+.nav .nav-item{
+    font-size: 13px;
+    font-weight: 700;
+    display: block;
+    line-height: 26px;
+}
+.home{
+    color: #91640F;
+    background: #facf5a;
+}
+.intro-body{
+    text-align: center;
+    color: white;
+}
+.intro-text{
+    font-weight: 900;
+}
+.passionate{
+    font-size: 2em;
+    font-weight: 700;
+
+}
+.UX{
+    font-weight: normal;
+    color: #facf5a;
+}
